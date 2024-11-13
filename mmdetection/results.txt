@@ -1,0 +1,8 @@
+0.0  |||  0.26336726546287537 ||| 0.0-------- ../checkpoints/coco_65_15/classifier_best.pth 
+0.38626763224601746  |||  0.26133599877357483 ||| 0.3117513016657651-------- ../checkpoints/coco_65_15/classifier_best.pth
+0.0  |||  0.17678682506084442 ||| 0.0-------- ../checkpoints/coco_48_17/classifier_best.pth
+0.3047788441181183  |||  0.17322853207588196 ||| 0.2209019960936258-------- ../checkpoints/coco_48_17/classifier_best.pth 
+0.0  |||  0.6625717282295227 ||| 0.0-------- ../checkpoints/VOC/classifier_best.pth 
+0.5416321754455566  |||  0.46291112899780273 ||| 0.49918716441193645-------- ../checkpoints/VOC/classifier_best.pth 
+0.0  |||  0.12336295775175095 ||| 0.0-------- ../checkpoints/DIOR/classifier_best.pth 
+0.22901280224323273  |||  0.08275379240512848 ||| 0.121839744-------- ../checkpoints/DIOR/classifier_best.pth

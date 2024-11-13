@@ -1,0 +1,18 @@
+# ninja log v5
+0	2339	1691382873129297422	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/nms/src/soft_nms_cpu.o	22792c276f5f12e1
+0	15986	1691382889244893259	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/nms/src/nms_cpu.o	c34c9f9004aefcd0
+0	10784	1691382900572608223	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/nms/src/nms_kernel.o	45d9b891629a5a21
+0	15301	1691383674470207156	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/nms/src/nms_cuda.o	adaa88b5e37be67f
+1	10866	1691383685817781559	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/roi_align/src/roi_align_kernel.o	8abb5c9383ff5632
+0	15867	1691383827916595121	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/roi_align/src/roi_align_cuda.o	e82a4aec30082935
+0	10757	1691383839156195046	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/roi_pool/src/roi_pool_kernel.o	288a02182a0db400
+3	15694	1691384123166459655	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/roi_align/src/roi_align_cuda.o	e82a4aec30082935
+0	15801	1691384277317402030	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/roi_pool/src/roi_pool_cuda.o	11592ba66e85b974
+0	12330	1691384290036989939	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/dcn/src/deform_conv_cuda_kernel.o	3214e01f455c8d4a
+0	18170	1691384689124344498	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/dcn/src/deform_conv_cuda.o	1b1d0aa8e27c5143
+0	11547	1691384701119970883	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/dcn/src/deform_pool_cuda_kernel.o	6bf2f0b1f0d4358
+0	16388	1691384705963820097	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/dcn/src/deform_pool_cuda.o	66d12ca17c46b1c0
+0	10941	1691384717363465412	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/sigmoid_focal_loss/src/sigmoid_focal_loss_cuda.o	1de65c3abd7297b
+0	15995	1691384722419308186	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/sigmoid_focal_loss/src/sigmoid_focal_loss.o	19c8cf782c21ae01
+0	11005	1691384733838953234	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/masked_conv/src/masked_conv2d_kernel.o	ffbe317f339807b8
+0	15770	1691384795997025265	/codes/zero_shot_detection/mmdetection/build/temp.linux-x86_64-3.7/mmdet/ops/masked_conv/src/masked_conv2d_cuda.o	9674e183872434f5
