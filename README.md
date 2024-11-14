@@ -2,7 +2,7 @@
 
 ## 📢 Description
 
-This is the code repository related to "VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection“.
+This is the code repository related to "VLDUS: Vision-Language Distillated Unseen Synthesizer for Zero-Shot Object Detection".
 
 <img src=".\images\framework.jpg" alt="framework" style="zoom:30%;" />
 
