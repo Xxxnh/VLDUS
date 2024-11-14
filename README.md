@@ -120,8 +120,3 @@ cd mmdetection
 <img src=".\images\result.jpg" alt="result" style="zoom:30%;" />
 
 
-
-## ❤️ Acknowledgements
-
-- This code is built upon [SU](https://openaccess.thecvf.com/content/ACCV2020/papers/Hayat_Synthesizing_the_Unseen_for_Zero-shot_Object_Detection_ACCV_2020_paper.pdf) , and we sincerely thank the authors for their contributions.
-- This work was supported by National Science and Technology Major Project No. 2022ZD0117103, National Nature Science Foundation of China under Grant 62302384, 62172326, and 62137002, the MOE Innovation Research Team No. IRT17R86, China University Innovation Fund No. 2021FNA04003, China Postdoctoral Science Foundation under Grant 2023M742790, and the Project of China Knowledge Center for Engineering Science and Technology.
